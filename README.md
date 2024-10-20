@@ -1,7 +1,7 @@
 # Experiment-20
 # sorting
 ## Aim- To study and implement Sorting Algorithm.
-## The0ry-
+## Theory-
 Sorting is a fundamental operation in computer science for organizing data. It can be done in ascending or descending order, and various sorting algorithms exist, including Selection Sort, Insertion Sort, and Bubble Sort. Here’s a summary of each:
 
 1. Selection Sort:
