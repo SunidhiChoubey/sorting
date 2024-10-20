@@ -181,6 +181,7 @@ int main()
 ![](https://github.com/SunidhiChoubey/sorting/blob/main/Screenshot%202024-10-21%20024704.png)
 1[](https://github.com/SunidhiChoubey/sorting/blob/main/Screenshot%202024-10-21%20024739.png)
 ![](https://github.com/SunidhiChoubey/sorting/blob/main/Screenshot%202024-10-21%20024819.png)
+![](https://github.com/SunidhiChoubey/sorting/blob/main/Screenshot%202024-10-21%20024739.png)
 ## Conclusion-
 We learnt about sorting in C++ and  We learnt the use case of the types of sorting in C++.
 
